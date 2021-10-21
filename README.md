@@ -35,3 +35,17 @@ Alacrity is an interpreted scripting language for DOS and Borland/Turbo Pascal. 
 ### Future Projects
 
 The above open-source projects are intended for use in designing a yet unnamed Role-Playing Game engine and design tools, and a new retro-inspired Sci-Fi RPG with a complex story and engaging game play.  The game design tools will be available under open source using the MIT license, but the first game for the new engine will likely be closed.
+
+### Contact
+
+If you are interested in learning or or wish to contribute code, artwork or other materials, please email us at:
+
+[dev.alaveri.org]: mailto:dev@alaveri.org
+
+
+
+Thank for your interest!
+
+##### -Sarah Shelby
+
+Founder
