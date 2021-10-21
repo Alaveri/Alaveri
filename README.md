@@ -28,6 +28,9 @@ Recommended:
 - Available XMS memory (2 MB or more)
 - VESA-Compliant SVGA card supporting 640x480 @256 color or higher
 
+or
+- DosBox on a modern computer system.
+
 #### Alacrity Scripting Language
 
 Alacrity is an interpreted scripting language for DOS and Borland/Turbo Pascal.  It is being designed with simplicity, readability and low memory requirements for use in games and other DOS applications.
