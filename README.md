@@ -38,10 +38,7 @@ The above open-source projects are intended for use in designing a yet unnamed R
 
 ### Contact
 
-If you are interested in learning or or wish to contribute code, artwork or other materials, please email us at:
-
-[dev.alaveri.org]: mailto:dev@alaveri.org
-
+If you are interested in learning or or wish to contribute code, artwork or other materials, please email us at dev.alaveri.org.
 
 
 Thank for your interest!
