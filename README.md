@@ -10,7 +10,7 @@ The ADL (Alaveri DOS Library) is a library for DOS and Borland/Turbo Pascal.  Fe
 
 #### Verda
 
-Verda is a text-based GUI library for DOS and Borland/Turbo Pascal 7.  Features to include a text mode desktop including windows, menus, buttons, lists, trees, dialog boxes, editors and more.  Normal text modes are supported, and optionally mixed VGA/SVGA-based graphics/text modes, allowing higher resolutions than 80x25 text (for example 100x37 text modes in SGVA 800x600). Verda runs in DOS real mode and allows fast development of DOS GUI applications without needing Windows 3.1 or other operating systems.  Verda utilizes the ADL to make automatic use of XMS memory if detected, large data-sets, images or other information limited only by available XMS memory.  Verda is currently under active development.
+Verda is a text-based GUI library for DOS and Borland/Turbo Pascal 7.  Features to include a text mode desktop including windows, menus, buttons, lists, trees, dialog boxes, editors and more.  Normal text modes are supported, and optionally mixed VGA/SVGA-based graphics/text modes, allowing higher resolutions than 80x25 text (for example 100x37 text mode in SGVA 800x600). Verda runs in DOS real mode and allows fast development of DOS GUI applications without needing Windows 3.1 or other operating systems.  Verda utilizes the ADL to make automatic use of XMS memory if detected, large data-sets, images or other information limited only by available XMS memory.  Verda is currently under active development.
 
 Future plans include adapting it to use optional full graphical rendering without changing any existing app using Versa, other than switching out the rendering driver.
 
@@ -32,10 +32,6 @@ Recommended:
 
 or
 - DosBox on a modern computer system.  The S3 SVGA driver is recommended.
-
-#### Alacrity Scripting Language
-
-Alacrity is an interpreted scripting language for DOS and Borland/Turbo Pascal.  It is being designed with simplicity, readability and low memory requirements for use in games and other DOS applications.  Alacrity is planned, but not yet under development.
 
 ### Future Projects
 
